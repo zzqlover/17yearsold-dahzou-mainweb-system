@@ -3,6 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import path from 'path'
 
 export default defineConfig({
+  base: '/17yearsold-dahzou-mainweb-system/',
   plugins: [vue()],
   resolve: {
     alias: {
