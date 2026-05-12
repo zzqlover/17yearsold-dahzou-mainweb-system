@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "张爱萍故居",
+    "description": "中国导弹之父张爱萍将军故居，全面展示了这位伟大革命家波澜壮阔的一生。",
+    "location": "通川区",
+    "image": "/images/History/张爱萍故居.jpeg",
+    "year": "",
+    "sort_order": 1,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "红军纪念馆",
+    "description": "收藏了大量珍贵的革命文物，记录着红四方面军在达州的战斗历程。",
+    "location": "达川区",
+    "image": "/images/History/红军纪念馆.jpeg",
+    "year": "",
+    "sort_order": 2,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "万源保卫战遗址",
+    "description": "1934年红军在此与敌军展开殊死搏斗，是川陕革命根据地最惨烈的战役之一。",
+    "location": "万源市",
+    "image": "/images/History/万源保卫战.jpeg",
+    "year": "",
+    "sort_order": 3,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "列宁主义街",
+    "description": "被誉为'中国红色第一街'，保存着完好的红军石刻标语群。",
+    "location": "达川区石桥镇",
+    "image": "/images/History/列宁街.jpeg",
+    "year": "",
+    "sort_order": 4,
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  }
+]
